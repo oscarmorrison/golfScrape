@@ -1,18 +1,24 @@
 {
-  "name": "golf-scraper",
+  "name": "scrape-golf-australia",
   "version": "1.0.0",
   "description": "Scraper for Golf Australia Top-100 Courses",
-  "main": "scraper.js",
+  "main": "golf-australia/scraper.js",
+  "type": "module",
   "scripts": {
-    "start": "node scraper.js"
+    "start": "node golf-australia/scraper.js"
   },
   "dependencies": {
-    "puppeteer": "^22.8.2"
+    "puppeteer": "^24.10.2"
   },
-  "keywords": ["scraper", "golf", "australia"],
+  "keywords": [
+    "scraper",
+    "golf",
+    "australia"
+  ],
   "author": "",
   "license": "MIT",
   "engines": {
     "node": ">=22.0.0"
-  }
+  },
+  "packageManager": "yarn@4.5.3+sha512.3003a14012e2987072d244c720506549c1aab73ee728208f1b2580a9fd67b92d61ba6b08fe93f6dce68fd771e3af1e59a0afa28dd242dd0940d73b95fedd4e90"
 }

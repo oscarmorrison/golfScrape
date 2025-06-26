@@ -1,0 +1,958 @@
+{
+  "source": "Golf Australia Top-100 Courses 2024",
+  "url": "https://www.golfaustralia.com.au/feature/ranking-australias-top-100-courses-for-2024-604333/page0",
+  "articleDate": "Jan 24 2024 1:35PM",
+  "scrapedAt": "2025-06-26T11:21:20.853Z",
+  "totalCourses": 100,
+  "courses": [
+    {
+      "ranking": 100,
+      "name": "MANLY GC",
+      "location": "Manly, NSW",
+      "designers": "Peter Thomson & Ross Perrett (2012).",
+      "averagePoints": 31.091,
+      "ranking2022": "NR",
+      "comments": [],
+      "articleImageUrl": "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f100_top100_Manly.jpg&c=0",
+      "articleImageCaption": "Manly GC. PHOTO: Gary Lisbon."
+    },
+    {
+      "ranking": 99,
+      "name": "SOUTHERN GC",
+      "location": "Keysborough, Victoria",
+      "designers": "Sam Berriman (1949); Peter Thomson & Mike Wolveridge (1976); Bob Shearer (1990-2010); Ogilvy, Cocking & Mead – OCM (ongoing).",
+      "averagePoints": 32.727,
+      "ranking2022": "NR",
+      "comments": [],
+      "articleImageUrl": "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f95_top100_mornington.jpg&c=0",
+      "articleImageCaption": "Mornington GC. PHOTO: Brendan James."
+    },
+    {
+      "ranking": 98,
+      "name": "RACV CAPE SCHANCK RESORT",
+      "location": "Cape Schanck, Victoria",
+      "designers": "Robert Trent Jones Jnr (1988).",
+      "averagePoints": 34.462,
+      "ranking2022": "88",
+      "comments": [],
+      "articleImageUrl": "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f91_top100_Federal.jpg&c=0",
+      "articleImageCaption": "Federal GC. PHOTO: Brendan James."
+    },
+    {
+      "ranking": 97,
+      "name": "THE HERITAGE G&CC – ST. JOHN COURSE",
+      "location": "Chirnside Park, Victoria",
+      "designers": "Jack Nicklaus (2000).",
+      "averagePoints": 38.5,
+      "ranking2022": "NR",
+      "comments": [],
+      "articleImageUrl": "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f89_top100_Monash.jpg&c=0",
+      "articleImageCaption": "Monash CC. PHOTO: Gary Lisbon."
+    },
+    {
+      "ranking": 96,
+      "name": "CASTLE HILL CC",
+      "location": "Castle Hill, NSW",
+      "designers": "Eric Apperly (1951); Jack Newton, Graeme Grant, John Spencer (1992-2006); Bob Harrison (2019).",
+      "averagePoints": 38.667,
+      "ranking2022": "98",
+      "comments": [],
+      "articleImageUrl": "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f85_top100_Murray_Downs.jpg&c=0",
+      "articleImageCaption": "Murray Downs G&CC. PHOTO: Brendan James."
+    },
+    {
+      "ranking": 95,
+      "name": "MORNINGTON GC",
+      "location": "Mornington, Victoria",
+      "designers": "Vern Morcom, Sloan Morpeth and Gus Jackson (1950); Jack Watson (1967); Ben Davey and Darius Oliver (ongoing).",
+      "averagePoints": 39.375,
+      "ranking2022": "98",
+      "comments": [],
+      "articleImageUrl": "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f82_top100_Narooma.jpg&c=0",
+      "articleImageCaption": "Narooma GC. PHOTO: Brendan James."
+    },
+    {
+      "ranking": 94,
+      "name": "THE BRISBANE GC",
+      "location": "Yeerongpilly, Queensland",
+      "designers": "Carnegie Clark (1904); Dr Alister MacKenzie (1926 advisory); Ross Watson (2007-2020).",
+      "averagePoints": 40.4,
+      "ranking2022": "97",
+      "comments": [],
+      "articleImageUrl": "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f81_top100_Warrnambool.jpg&c=0",
+      "articleImageCaption": "Warrnambool GC. PHOTO: Brendan James."
+    },
+    {
+      "ranking": 93,
+      "name": "ROYAL FREMANTLE GC",
+      "location": "Fremantle, Western Australia",
+      "designers": "Arthur Oliphant & Peter Anderson (1906); Michael Coate (2004); Richard Chamberlain (ongoing).",
+      "averagePoints": 41.688,
+      "ranking2022": "NR",
+      "comments": [],
+      "articleImageUrl": "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f79_top100_Western_Ausrtralia.jpg&c=0",
+      "articleImageCaption": "The Western Australian. PHOTO: Supplied."
+    },
+    {
+      "ranking": 92,
+      "name": "BELMONT GC",
+      "location": "Belmont, NSW",
+      "designers": "Prosper Ellis (1952); Jack Newton (2000s); James Wilcher (2018).",
+      "averagePoints": 41.833,
+      "ranking2022": "89",
+      "comments": [],
+      "articleImageUrl": "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f78_top100_Sorrento.jpg&c=0",
+      "articleImageCaption": "Sorrento GC. PHOTO: Gary Lisbon."
+    },
+    {
+      "ranking": 91,
+      "name": "THE FEDERAL GC",
+      "location": "Red Hill, ACT",
+      "designers": "Prosper Ellis (1955); Neil Crafter & Paul Mogford (ongoing).",
+      "averagePoints": 42.455,
+      "ranking2022": "93",
+      "comments": [],
+      "articleImageUrl": "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f72_top100_Pelican_Waters.jpg&c=0",
+      "articleImageCaption": "Pelican Waters GC. PHOTO: Brendan James."
+    },
+    {
+      "ranking": 90,
+      "name": "PYMBLE GC",
+      "location": "St. Ives, NSW",
+      "designers": "Carnegie Clark & Dan Soutar (1928); Eric Apperly (1953); Ross Watson (2006); James Wilcher (ongoing)",
+      "averagePoints": 42.714,
+      "ranking2022": "NR",
+      "comments": [],
+      "articleImageUrl": "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f71_top100_Maroochy_River.jpg&c=0",
+      "articleImageCaption": "Maroochy River GC. PHOTO: Brendan James."
+    },
+    {
+      "ranking": 89,
+      "name": "MONASH CC",
+      "location": "Ingleside, NSW",
+      "designers": "James Herd Scott (1951); Bob Harrison (2014-2016); James Wilcher (2017 and ongoing).",
+      "averagePoints": 43.111,
+      "ranking2022": "94",
+      "comments": [],
+      "articleImageUrl": "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2fLinks_Lady_Bay_8th_hole_04.jpg&c=0",
+      "articleImageCaption": "Links Lady Bay Resort. PHOTO: Brendan James."
+    },
+    {
+      "ranking": 88,
+      "name": "THE HERITAGE G&CC – HENLEY COURSE",
+      "location": "Chirnside Park, Victoria",
+      "designers": "Tony Cashmore (2006).",
+      "averagePoints": 43.25,
+      "ranking2022": "NR",
+      "comments": [],
+      "articleImageUrl": "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f67_top100_Royal_Hobart.jpg&c=0",
+      "articleImageCaption": "Royal Hobart GC. PHOTO: Brendan James."
+    },
+    {
+      "ranking": 87,
+      "name": "RIVERSDALE GC",
+      "location": "Mt Waverley, Victoria",
+      "designers": "Alex Russell (1930); Neil Crafter & Paul Mogford – Golf Strategies (2007 & ongoing).",
+      "averagePoints": 43.833,
+      "ranking2022": "90",
+      "comments": [],
+      "articleImageUrl": "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f63_top100_Cranbourne.jpg&c=0",
+      "articleImageCaption": "Cranbourne GC. PHOTO: Gary Lisbon."
+    },
+    {
+      "ranking": 86,
+      "name": "SUN CITY CC",
+      "location": "Yanchep, Western Australia",
+      "designers": "Murray Dawson & Bob Green (1974); Geoff Ogilvy, Mike Clayton, Mike Cocking & Ashley Mead – OCCM (2016).",
+      "averagePoints": 44.25,
+      "ranking2022": "81",
+      "comments": [],
+      "articleImageUrl": "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f57_top100_Eastern.jpg&c=0",
+      "articleImageCaption": "The Eastern GC – South Course. PHOTO: Gary Lisbon."
+    },
+    {
+      "ranking": 85,
+      "name": "MURRAY DOWNS G&CC",
+      "location": "Murray Downs, NSW",
+      "designers": "Ted & Geoff Parslow (1988 & 2009).",
+      "averagePoints": 46.4,
+      "ranking2022": "86",
+      "comments": [],
+      "articleImageUrl": "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f52_top100_Links_Hope_Island.jpg&c=0",
+      "articleImageCaption": "The Links Hope Island. PHOTO: Brendan James."
+    },
+    {
+      "ranking": 84,
+      "name": "JOONDALUP RESORT – QUARRY",
+      "location": "Joondalup, Western Australia",
+      "designers": "Robert Trent Jones Jnr (1985).",
+      "averagePoints": 47,
+      "ranking2022": "87",
+      "comments": [],
+      "articleImageUrl": "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f51_top100_Thirteenth_Beach_-_Creek.jpg&c=0",
+      "articleImageCaption": "Thirteenth Beach GL – Creek Course. PHOTO: Brendan James."
+    },
+    {
+      "ranking": 83,
+      "name": "KILLARA GC",
+      "location": "Killara, NSW",
+      "designers": "Club members (1906); Commander John Harris (1961-1965); Prosper Ellis (1965); Harley Kruse (2020).",
+      "averagePoints": 48.143,
+      "ranking2022": "85",
+      "comments": [],
+      "articleImageUrl": "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f49_top100_Elanora.jpg&c=0",
+      "articleImageCaption": "Elanora CC. PHOTO: Brendan James."
+    },
+    {
+      "ranking": 82,
+      "name": "NAROOMA GC",
+      "location": "Narooma, NSW",
+      "designers": "John Spencer (1980).",
+      "averagePoints": 49,
+      "ranking2022": "77",
+      "comments": [],
+      "articleImageUrl": "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f48_top100_Curlewis.jpg&c=0",
+      "articleImageCaption": "Curlewis GC. PHOTO: Brendan James."
+    },
+    {
+      "ranking": 81,
+      "name": "WARRNAMBOOL GC",
+      "location": "Warrnambool, Victoria",
+      "designers": "George Lowe Jnr. (1928); Perrett Webb (ongoing).",
+      "averagePoints": 49.25,
+      "ranking2022": "82",
+      "comments": [],
+      "articleImageUrl": "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f44_top100_Moonah_Links_Legend.jpg&c=0",
+      "articleImageCaption": "Moonah Links – Legends Course. PHOTO: Brendan James."
+    },
+    {
+      "ranking": 80,
+      "name": "STONECUTTERS RIDGE GC",
+      "location": "Colebee, NSW",
+      "designers": "Greg Norman & Bob Harrison (2012).",
+      "averagePoints": 49.4,
+      "ranking2022": "72",
+      "comments": [],
+      "articleImageUrl": "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f39_top100_Joondalup_Quarry.jpg&c=0",
+      "articleImageCaption": "Joondalup Resort – Quarry/Dune Course. PHOTO: Brendan James."
+    },
+    {
+      "ranking": 79,
+      "name": "THE WESTERN AUSTRALIAN GC",
+      "location": "Yokine, Western Australia",
+      "designers": "Eustace Cohen & Victor Steffanoni (1927); Alex Russell (1928); Graham Marsh (2001 & ongoing).",
+      "averagePoints": 50.688,
+      "ranking2022": "NR",
+      "comments": [],
+      "articleImageUrl": "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2fBonville_9th_and_18th_hole01.jpg&c=0",
+      "articleImageCaption": "Bonville Golf Resort. PHOTO: Brendan James."
+    },
+    {
+      "ranking": 78,
+      "name": "SORRENTO GC",
+      "location": "Sorrento, Victoria",
+      "designers": "Club members (1908); J.D Scott (1929); Peter Thomson,",
+      "averagePoints": 51,
+      "ranking2022": "84",
+      "comments": [],
+      "articleImageUrl": "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f34_top100_Concord.jpg&c=0",
+      "articleImageCaption": "Concord GC. PHOTO: Brendan James."
+    },
+    {
+      "ranking": 77,
+      "name": "BLACK BULL GC",
+      "location": "Yarrawonga, Victoria",
+      "designers": "Peter Thomson & Ross Perrett (2015).",
+      "averagePoints": 51.1,
+      "ranking2022": "80",
+      "comments": [],
+      "articleImageUrl": "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f32_top100_Magenta_Shores.jpg&c=0",
+      "articleImageCaption": "Magenta Shores G&CC. PHOTO: Supplied/AirSwing Media."
+    },
+    {
+      "ranking": 76,
+      "name": "MT COMPASS GOLF COURSE",
+      "location": "Mt Compass, South Australia",
+      "designers": "Brian & Neil Crafter (1995 & 1998); Neil Crafter (2016 & ongoing).",
+      "averagePoints": 51.2,
+      "ranking2022": "83",
+      "comments": [],
+      "articleImageUrl": "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f31_top100_The_Australian.jpg&c=0",
+      "articleImageCaption": "The Australian GC. PHOTO: Brendan James."
+    },
+    {
+      "ranking": 75,
+      "name": "COTTESLOE GC",
+      "location": "Swanbourne,\nWestern Australia",
+      "designers": "David Anderson (1931); Alex Russell (1939); Justin Seward",
+      "averagePoints": 51.455,
+      "ranking2022": "NR",
+      "comments": [],
+      "articleImageUrl": "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f30_top100_Newcastle.jpg&c=0",
+      "articleImageCaption": "Newcastle GC. PHOTO: Brendan James."
+    },
+    {
+      "ranking": 74,
+      "name": "THE GLADES GC",
+      "location": "Robina, Queensland",
+      "designers": "Greg Norman & Bob Harrison (2000).",
+      "averagePoints": 52,
+      "ranking2022": "75",
+      "comments": [],
+      "articleImageUrl": "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f29_top100_Port_Fairy.jpg&c=0",
+      "articleImageCaption": "Port Fairy GL. PHOTO: Brendan James."
+    },
+    {
+      "ranking": 73,
+      "name": "TASMANIA GC",
+      "location": "Barilla Bay, Tasmania",
+      "designers": "Al Howard (1972).",
+      "averagePoints": 52.429,
+      "ranking2022": "79",
+      "comments": [],
+      "articleImageUrl": "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f27_top100_NationalOld.jpg&c=0",
+      "articleImageCaption": "The National GC – Old Course. PHOTO: Gary Lisbon."
+    },
+    {
+      "ranking": 72,
+      "name": "PELICAN WATERS GC",
+      "location": "Pelican Waters, Queensland",
+      "designers": "Greg Norman & Bob Harrison (2000); Greg Norman (2023 & ongoing).",
+      "averagePoints": 52.778,
+      "ranking2022": "NR",
+      "comments": [],
+      "articleImageUrl": "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f25_top100_The_Dunes.jpg&c=0",
+      "articleImageCaption": "The Dunes GL. PHOTO: Brendan James."
+    },
+    {
+      "ranking": 71,
+      "name": "MAROOCHY RIVER GC",
+      "location": "Bli Bli, Queensland",
+      "designers": "Graham Marsh (2015).",
+      "averagePoints": 52.857,
+      "ranking2022": "78",
+      "comments": [],
+      "articleImageUrl": "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f22_top100_Cathedral.jpg&c=0",
+      "articleImageCaption": "Cathedral Lodge. PHOTO: Gary Lisbon."
+    },
+    {
+      "ranking": 70,
+      "name": "SETTLERS RUN G&CC",
+      "location": "Botanic Ridge, Victoria",
+      "designers": "Greg Norman, Bob Harrison & Harley Kruse (2007).",
+      "averagePoints": 53.3,
+      "ranking2022": "73",
+      "comments": [],
+      "articleImageUrl": "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f21_top100_LakeKarrinyup.jpg&c=0",
+      "articleImageCaption": "Lake Karrinyup CC. PHOTO: Brendan James."
+    },
+    {
+      "ranking": 69,
+      "name": "AVONDALE GC",
+      "location": "Pymble, NSW",
+      "designers": "Eric Apperly (1927); Ross Watson (2008).",
+      "averagePoints": 53.455,
+      "ranking2022": "76",
+      "comments": [],
+      "articleImageUrl": "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2fBarwon_Heads_3rd_hole_02.jpg&c=0",
+      "articleImageCaption": "Barwon Heads GC. PHOTO: Brendan James."
+    },
+    {
+      "ranking": 68,
+      "name": "LINKS LADY BAY RESORT",
+      "location": "Normanville, South Australia",
+      "designers": "Jack Newton, Graeme Grant & John Spencer (2000).",
+      "averagePoints": 55.091,
+      "ranking2022": "70",
+      "comments": [],
+      "articleImageUrl": "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f17_top100_Ocean_Dunes.jpg&c=0",
+      "articleImageCaption": "Ocean Dunes. PHOTO: Brendan James."
+    },
+    {
+      "ranking": 67,
+      "name": "ROYAL HOBART GC",
+      "location": "Seven Mile Beach, Tasmania",
+      "designers": "Vern Morcom (1963); Richard Chamberlain (ongoing).",
+      "averagePoints": 55.25,
+      "ranking2022": "71",
+      "comments": [],
+      "articleImageUrl": "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f13_top100_St_Andrews_Beach.jpg&c=0",
+      "articleImageCaption": "St Andrews Beach. PHOTO: Brendan James."
+    },
+    {
+      "ranking": 66,
+      "name": "SANCTUARY LAKES GC",
+      "location": "Sanctuary Lakes, Victoria",
+      "designers": "Greg Norman & Bob Harrison (2000).",
+      "averagePoints": 55.888,
+      "ranking2022": "67",
+      "comments": [],
+      "articleImageUrl": "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f11_top100_RoyalAdelaide.jpg&c=0",
+      "articleImageCaption": "Royal Adelaide GC. PHOTO: Gary Lisbon."
+    },
+    {
+      "ranking": 65,
+      "name": "KALGOORLIE GC",
+      "location": "Kalgoorlie, Western Australia",
+      "designers": "Graham Marsh (2010).",
+      "averagePoints": 56.5,
+      "ranking2022": "66",
+      "comments": [],
+      "articleImageUrl": "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f8_top100_Peninsula_KIngswood_North.jpg&c=0",
+      "articleImageCaption": "Peninsula Kingswood CGC – North Course. PHOTO: Brendan James."
+    },
+    {
+      "ranking": 64,
+      "name": "MOONAH LINKS – OPEN COURSE",
+      "location": "Fingal, Victoria",
+      "designers": "Peter Thomson, Mike Wolveridge and Ross Perrett (2001).",
+      "averagePoints": 57.562,
+      "ranking2022": "68",
+      "comments": [],
+      "articleImageUrl": "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f4_top100_Barnbougle_Dunes.jpg&c=0",
+      "articleImageCaption": "Barnbougle Dunes. PHOTO: Brendan James."
+    },
+    {
+      "ranking": 63,
+      "name": "CRANBOURNE GC",
+      "location": "Cranbourne, Victoria",
+      "designers": "Sam Berriman (1954); Geoff Ogilvy, Mike Clayton, Mike Cocking & Ashley Mead – OCCM (2017).",
+      "averagePoints": 57.667,
+      "ranking2022": "62",
+      "comments": [],
+      "articleImageUrl": "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f3_top100_CapeWickham.jpg&c=0",
+      "articleImageCaption": "Cape Wickham Links. PHOTO: Brendan James."
+    },
+    {
+      "ranking": 62,
+      "name": "RANFURLIE GC",
+      "location": "Cranbourne West, Victoria",
+      "designers": "Mike Clayton (2002); Geoff Ogilvy, Mike Clayton, Mike Cocking & Ashley Mead – OCCM (2017)",
+      "averagePoints": 58.25,
+      "ranking2022": "64",
+      "comments": [],
+      "articleImageUrl": "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f2_top100_kingston_heath.jpg&c=0",
+      "articleImageCaption": "Kingston Heath. PHOTO: Gary Lisbon."
+    },
+    {
+      "ranking": 61,
+      "name": "RACV HEALESVILLE",
+      "location": "Healesville, Victoria",
+      "designers": "Mike Clayton (2009).",
+      "averagePoints": 59.357,
+      "ranking2022": "60",
+      "comments": [],
+      "articleImageUrl": "https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=https%3a%2f%2fi.nextmedia.com.au%2fFeatures%2f1_top100_royal_melbourne_west.jpg&c=0",
+      "articleImageCaption": "Royal Melbourne GC – West Course. PHOTO: Gary Lisbon."
+    },
+    {
+      "ranking": 60,
+      "name": "THE GRAND GC",
+      "location": "Gilston, Queensland",
+      "designers": "Greg Norman & Bob Harrison (1997).",
+      "averagePoints": 59.429,
+      "ranking2022": "59",
+      "comments": []
+    },
+    {
+      "ranking": 59,
+      "name": "SANCTUARY COVE G&CC – PINES COURSE",
+      "location": "Sanctuary Cove, Queensland",
+      "designers": "Arnold Palmer & Ed Seay (1989).",
+      "averagePoints": 60,
+      "ranking2022": "65",
+      "comments": []
+    },
+    {
+      "ranking": 58,
+      "name": "THE CUT GC",
+      "location": "Dawesville, Western Australia",
+      "designers": "James Wilcher (2004).",
+      "averagePoints": 60.111,
+      "ranking2022": "63",
+      "comments": []
+    },
+    {
+      "ranking": 57,
+      "name": "THE EASTERN GC – SOUTH COURSE",
+      "location": "Yering, Victoria",
+      "designers": "Greg Norman (2015).",
+      "averagePoints": 60.167,
+      "ranking2022": "54",
+      "comments": []
+    },
+    {
+      "ranking": 56,
+      "name": "THE VINTAGE GC",
+      "location": "Pokolbin, NSW",
+      "designers": "Greg Norman & Bob Harrison (2004).",
+      "averagePoints": 60.888,
+      "ranking2022": "52",
+      "comments": []
+    },
+    {
+      "ranking": 55,
+      "name": "ST MICHAELS GC",
+      "location": "Little Bay, NSW",
+      "designers": "Michael Moran & C.W Cole (1938); Ben Chambers Centreline Golf (ongoing).",
+      "averagePoints": 61.833,
+      "ranking2022": "61",
+      "comments": []
+    },
+    {
+      "ranking": 54,
+      "name": "MEADOW SPRINGS G&CC",
+      "location": "Meadow Springs, Western Australia",
+      "designers": "Robert Trent Jones Jnr (1993).",
+      "averagePoints": 62,
+      "ranking2022": "57",
+      "comments": []
+    },
+    {
+      "ranking": 53,
+      "name": "TERREY HILLS G&CC",
+      "location": "Terrey Hills, NSW",
+      "designers": "Graham Marsh & Ross Watson (1994); Graham Marsh (2017).",
+      "averagePoints": 62.1,
+      "ranking2022": "50",
+      "comments": []
+    },
+    {
+      "ranking": 52,
+      "name": "THE LINKS HOPE ISLAND",
+      "location": "Hope Island, Queensland",
+      "designers": "Peter Thomson, Mike Wolveridge & Ross Perrett (1997); Mike Wolveridge & Ross Perrett (2021).",
+      "averagePoints": 62.25,
+      "ranking2022": "55",
+      "comments": []
+    },
+    {
+      "name": "THIRTEENTH BEACH LINKS – CREEK COURSE",
+      "location": "Barwon Heads, Victoria",
+      "designers": "Tony Cashmore & Sir Nick Faldo (2004); Darius Oliver (ongoing).",
+      "averagePoints": 62.375,
+      "ranking2022": "53",
+      "comments": []
+    },
+    {
+      "ranking": 50,
+      "name": "ROSEBUD CC – NORTH COURSE",
+      "location": "Rosebud, Victoria",
+      "designers": "Jack Watson (1964); Geoff Ogilvy, Mike Cocking & Ashley Mead – OCM (2019 & ongoing).",
+      "averagePoints": 62.455,
+      "ranking2022": "69",
+      "comments": []
+    },
+    {
+      "ranking": 49,
+      "name": "ELANORA CC",
+      "location": "Elanora Heights, NSW",
+      "designers": "Dan Soutar (1929); James Wilcher (2004).",
+      "averagePoints": 63.714,
+      "ranking2022": "46",
+      "comments": []
+    },
+    {
+      "ranking": 48,
+      "name": "CURLEWIS GC",
+      "location": "Curlewis, Victoria",
+      "designers": "Vern Morcom (1947); Mike Clayton (2009 & ongoing).",
+      "averagePoints": 64,
+      "ranking2022": "49",
+      "comments": []
+    },
+    {
+      "ranking": 47,
+      "name": "THE GRANGE GC – EAST COURSE",
+      "location": "Grange, South Australia",
+      "designers": "Vern Morcom (1967); Greg Norman (2013).",
+      "averagePoints": 64.333,
+      "ranking2022": "48",
+      "comments": []
+    },
+    {
+      "ranking": 46,
+      "name": "HAMILTON ISLAND GC",
+      "location": "Dent Island, Queensland",
+      "designers": "Peter Thomson & Ross Perrett (2003).",
+      "averagePoints": 64.462,
+      "ranking2022": "42",
+      "comments": []
+    },
+    {
+      "ranking": 45,
+      "name": "SPRING VALLEY GC",
+      "location": "Clayton South, Victoria",
+      "designers": "Vern Morcom (1948); Geoff Ogilvy, Mike Clayton, Mike Cocking & Ashley Mead – OCCM (2017).",
+      "averagePoints": 64.5,
+      "ranking2022": "45",
+      "comments": []
+    },
+    {
+      "name": "MOONAH LINKS – LEGENDS COURSE",
+      "location": "Fingal, Victoria",
+      "designers": "Ross Perrett (2003).",
+      "averagePoints": 65.9,
+      "ranking2022": "47",
+      "comments": []
+    },
+    {
+      "ranking": 43,
+      "name": "SANDRINGHAM GOLF LINKS",
+      "location": "Cheltenham, Victoria",
+      "designers": "Vern Morcom (1932 & 1956); Geoff Ogilvy, Mike Cocking & Ashley Mead – OCM (2020).",
+      "averagePoints": 70.857,
+      "ranking2022": "51",
+      "comments": []
+    },
+    {
+      "name": "PORTSEA GC",
+      "location": "Portsea, Victoria",
+      "designers": "Jock Young (1926); Alex Russell (1929); Sloan Morpeth & Jack Howard (1965); Mike Clayton (2000); Geoff Ogilvy, Mike Cocking & Ashley Mead – OCM (2017 & ongoing).",
+      "averagePoints": 71.231,
+      "ranking2022": "37",
+      "comments": []
+    },
+    {
+      "ranking": 41,
+      "name": "BROOKWATER GC",
+      "location": "Brookwater, Queensland",
+      "designers": "Greg Norman & Bob Harrison (2002).",
+      "averagePoints": 71.333,
+      "ranking2022": "34",
+      "comments": []
+    },
+    {
+      "name": "BOUGLE RUN",
+      "location": "Bridport, Tasmania",
+      "designers": "Bill Coore (2021).",
+      "averagePoints": 71.357,
+      "ranking2022": "38",
+      "comments": []
+    },
+    {
+      "name": "JOONDALUP RESORT\n– QUARRY",
+      "location": "Joondalup, Western Australia.",
+      "designers": "Robert Trent Jones Jnr (1985).",
+      "averagePoints": 71.385,
+      "ranking2022": "41",
+      "comments": []
+    },
+    {
+      "name": "BONVILLE GOLF RESORT",
+      "location": "Bonville North, NSW.",
+      "designers": "Terry Watson & Ted Stirling (1992).",
+      "averagePoints": 71.933,
+      "ranking2022": "40",
+      "comments": []
+    },
+    {
+      "name": "GLENELG GC",
+      "location": "Novar Gardens, South Australia.",
+      "designers": "Herbert L. Rymill (1927); Vern Morcom (1955); Neil Crafter & Bob Tuohy (2004); Neil Crafter & Paul Mogford with Ryan Van Der Veen and Bob Tuohy (ongoing).",
+      "averagePoints": 73,
+      "ranking2022": "43",
+      "comments": []
+    },
+    {
+      "name": "ROYAL CANBERRA GC – WESTBOURNE COURSE",
+      "location": "Yarralumla, ACT.",
+      "designers": "Commander John Harris (1962); Peter Thomson & Mike Wolveridge (1984); Geoff Ogilvy, Mike Clayton, Mike Cocking & Ashley Mead – OCCM (2017).",
+      "averagePoints": 73.111,
+      "ranking2022": "31",
+      "comments": []
+    },
+    {
+      "ranking": 35,
+      "name": "THE GRANGE GC – WEST COURSE",
+      "location": "Grange, South Australia.",
+      "designers": "Vern Morcom (1956); Mike Clayton (2008).",
+      "averagePoints": 73.143,
+      "ranking2022": "39",
+      "comments": []
+    },
+    {
+      "ranking": 34,
+      "name": "CONCORD GC",
+      "location": "Concord, NSW.",
+      "designers": "Dan Soutar (1916); Ross Watson (1997); Mark Parker (2009); Tom Doak – Renaissance Golf Design (2018).",
+      "averagePoints": 73.267,
+      "ranking2022": "30",
+      "comments": []
+    },
+    {
+      "name": "BONNIE DOON GC",
+      "location": "Pagewood, NSW.",
+      "designers": "Lance Giddings & Eric Apperly (1937); Prosper Ellis (1951); Ross Watson (1995-2003); Geoff Ogilvy, Mike Clayton, Mike Cocking & Ashley Mead – OCCM (2019).",
+      "averagePoints": 73.385,
+      "ranking2022": "35",
+      "comments": []
+    },
+    {
+      "ranking": 32,
+      "name": "MAGENTA SHORES G&CC",
+      "location": "Magenta, NSW.",
+      "designers": "Ross Watson (2006 & 2020).",
+      "averagePoints": 74.533,
+      "ranking2022": "33",
+      "comments": []
+    },
+    {
+      "ranking": 31,
+      "name": "THE AUSTRALIAN GC",
+      "location": "Kensington, NSW.",
+      "designers": "Jack Nicklaus (1977 & 2013).",
+      "averagePoints": 77.556,
+      "ranking2022": "36",
+      "comments": []
+    },
+    {
+      "ranking": 30,
+      "name": "NEWCASTLE GC",
+      "location": "Stockton, NSW.",
+      "designers": "Eric Apperly (1937); Bob Harrison (ongoing).",
+      "averagePoints": 79.333,
+      "ranking2022": "29",
+      "comments": []
+    },
+    {
+      "ranking": 29,
+      "name": "PORT FAIRY GL",
+      "location": "Port Fairy, Victoria.",
+      "designers": "Club members (1963); Kevin Hartley (1989); Mike Clayton (2000 & ongoing).",
+      "averagePoints": 79.556,
+      "ranking2022": "28",
+      "comments": []
+    },
+    {
+      "ranking": 28,
+      "name": "THIRTEENTH BEACH GL – BEACH COURSE",
+      "location": "Barwon Heads, Victoria.",
+      "designers": "Tony Cashmore (2001); Darius Oliver (ongoing).",
+      "averagePoints": 80.333,
+      "ranking2022": "26",
+      "comments": []
+    },
+    {
+      "ranking": 27,
+      "name": "THE NATIONAL GC – OLD COURSE",
+      "location": "Cape Schanck, Victoria.",
+      "designers": "Robert Trent Jones Jnr (1987).",
+      "averagePoints": 80.421,
+      "ranking2022": "24",
+      "comments": []
+    },
+    {
+      "ranking": 26,
+      "name": "KOOYONGA GC",
+      "location": "Lockleys, South Australia.",
+      "designers": "Herbert L. Rymill (1924); Martin Hawtree (2008); Neil Crafter & Paul Mogford – Golf Strategies (ongoing).",
+      "averagePoints": 80.429,
+      "ranking2022": "21",
+      "comments": []
+    },
+    {
+      "ranking": 25,
+      "name": "THE DUNES LINKS",
+      "location": "Rye, Victoria.",
+      "designers": "Tony Cashmore (1997 & ongoing).",
+      "averagePoints": 80.563,
+      "ranking2022": "27",
+      "comments": []
+    },
+    {
+      "name": "WOODLANDS GC",
+      "location": "Mordialloc, Victoria.",
+      "designers": "Tony J.D Scott & Rowley Banks (1913); Sam Bennett (1917); Mick Morcom (1928); Jack Newton, Graeme Grant & John Spencer (1987-2001); Graeme Grant (2002-2005); Mike Clayton (2008-2011); Tom Doak– Renaissance Golf Design (2021); Mike Clayton, Mike DeVries, Frank Pont (CDP) and Harley Kruse (ongoing).",
+      "averagePoints": 80.769,
+      "ranking2022": "25",
+      "comments": []
+    },
+    {
+      "ranking": 23,
+      "name": "ROYAL QUEENSLAND GC",
+      "location": "Eagle Farm, Queensland.",
+      "designers": "Carnegie Clark (1920); Dr Alister MacKenzie (1926); Mike Clayton (2007 & ongoing).",
+      "averagePoints": 81,
+      "ranking2022": "23",
+      "comments": []
+    },
+    {
+      "name": "CATHEDRAL LODGE",
+      "location": "Thornton, Victoria.",
+      "designers": "Greg Norman (2017).",
+      "averagePoints": 81.133,
+      "ranking2022": "NR",
+      "comments": []
+    },
+    {
+      "name": "LAKE KARRINYUP GC",
+      "location": "Karrinyup, Western Australia.",
+      "designers": "Alex Russell (1928); Peter Thomson & Mike Wolveridge (early 1970s-2000s); Mike Clayton (2008); Geoff Ogilvy, Mike Clayton, Mike Cocking & Ashley Mead – OCCM (2018). Geoff Ogilvy, Mike Cocking & Ashley Mead – OCM (ongoing).",
+      "averagePoints": 81.429,
+      "ranking2022": "22",
+      "comments": []
+    },
+    {
+      "name": "BARWON HEADS GC",
+      "location": "Barwon Heads, Victoria.",
+      "designers": "Victor East (1921); Neil Crafter & Paul Mogford – Golf Strategies (2005 & ongoing).",
+      "averagePoints": 81.917,
+      "ranking2022": "19",
+      "comments": []
+    },
+    {
+      "ranking": 19,
+      "name": "LONSDALE LINKS",
+      "location": "Point Lonsdale, Victoria.",
+      "designers": "Geoff Ogilvy, Mike Cocking & Ashley Mead – OCM (2020).",
+      "averagePoints": 83.55,
+      "ranking2022": "20",
+      "comments": []
+    },
+    {
+      "name": "PENINSULA KINGSWOOD CGC\n– SOUTH COURSE",
+      "location": "Frankston, Victoria.",
+      "designers": "Sloan Morpeth (1967); Mike Clayton (2007); Geoff Ogilvy, Mike Clayton, Mike Cocking & Ashley Mead – OCCM (2019).",
+      "averagePoints": 83.643,
+      "ranking2022": "16",
+      "comments": []
+    },
+    {
+      "name": "OCEAN DUNES",
+      "location": "King Island, Tasmania.",
+      "designers": "Graeme Grant (2016).",
+      "averagePoints": 84.786,
+      "ranking2022": "18",
+      "comments": []
+    },
+    {
+      "name": "YARRA YARRA GC",
+      "location": "Bentleigh East, Victoria.",
+      "designers": "Alex Russell (1928); Martin Hawtree (2011); Tom Doak & Brian Slawnik – Renaissance Golf Design (2020 and ongoing).",
+      "averagePoints": 86.25,
+      "ranking2022": "17",
+      "comments": []
+    },
+    {
+      "name": "THE LAKES GC",
+      "location": "Eastlakes, NSW.",
+      "designers": "Bruce Devlin & Robert Von Hagge (1970); Geoff Ogilvy, Mike Clayton, Mike Cocking & Ashley Mead – OCCM (2009).",
+      "averagePoints": 86.667,
+      "ranking2022": "14",
+      "comments": []
+    },
+    {
+      "name": "METROPOLITAN GC",
+      "location": "Oakleigh South, Victoria.",
+      "designers": "J.B MacKenzie (1906); Dr Alister MacKenzie (1926); Dick Wilson (1959); Mike Clayton (2006); Neil Crafter & Paul Mogford – Golf Strategies (ongoing).",
+      "averagePoints": 87.077,
+      "ranking2022": "15",
+      "comments": []
+    },
+    {
+      "name": "ST ANDREWS BEACH",
+      "location": "Fingal, Victoria.",
+      "designers": "Tom Doak (2005)",
+      "averagePoints": 88.2,
+      "ranking2022": "13",
+      "comments": []
+    },
+    {
+      "name": "THE NATIONAL GC – MOONAH COURSE",
+      "location": "Cape Schanck, Victoria.",
+      "designers": "Greg Norman & Bob Harrison (2000).",
+      "averagePoints": 90.3,
+      "ranking2022": "12",
+      "comments": []
+    },
+    {
+      "name": "ROYAL ADELAIDE GC",
+      "location": "Seaton, South Australia.",
+      "designers": "Dr Alister MacKenzie (1926); Peter Thomson & Mike Wolveridge (1979 & 1997); Mike Clayton (2009); Tom Doak – Renaissance Golf Design (ongoing).",
+      "averagePoints": 90.45,
+      "ranking2022": "11",
+      "comments": []
+    },
+    {
+      "name": "NEW SOUTH WALES GC",
+      "location": "La Perouse, NSW.",
+      "designers": "Dr Alister MacKenzie (1928); Eric Apperly (1937 & 1951); Greg Norman & Bob Harrison (2010); Greg Norman (2018); Tom Doak – Renaissance Golf (2019); Mackenzie & Ebert (ongoing).",
+      "averagePoints": 92.3,
+      "ranking2022": "9",
+      "comments": []
+    },
+    {
+      "name": "THE NATIONAL GC – GUNNAMATTA COURSE",
+      "location": "Cape Schanck, Victoria.",
+      "designers": "Tom Doak – Renaissance Golf Design (2019)",
+      "averagePoints": 92.4,
+      "ranking2022": "8",
+      "comments": []
+    },
+    {
+      "name": "PENINSULA KINGSWOOD CGC – NORTH COURSE",
+      "location": "Frankston, Victoria.",
+      "designers": "Sloan Morpeth (1969); Mike Clayton (2002); Geoff Ogilvy, Mike Clayton, Mike Cocking & Ashley Mead – OCCM (2019).",
+      "averagePoints": 93.176,
+      "ranking2022": "6",
+      "comments": []
+    },
+    {
+      "name": "VICTORIA GC",
+      "location": "Cheltenham, Victoria.",
+      "designers": "Oscar Damman, William Meader & Dr Alister MacKenzie (1927); Geoff Ogilvy, Mike Clayton, Mike Cocking & Ashley Mead – OCCM (2019).",
+      "averagePoints": 93.25,
+      "ranking2022": "10",
+      "comments": []
+    },
+    {
+      "name": "ROYAL MELBOURNE GC – EAST COURSE",
+      "location": "Black Rock, Victoria.",
+      "designers": "Alex Russell (1932); Tom Doak – Renaissance Golf Design (ongoing).",
+      "averagePoints": 94.158,
+      "ranking2022": null,
+      "comments": []
+    },
+    {
+      "name": "BARNBOUGLE LOST FARM",
+      "location": "Bridport, Tasmania.",
+      "designers": "Bill Coore (2010).",
+      "averagePoints": 96.826,
+      "ranking2022": "4",
+      "comments": []
+    },
+    {
+      "name": "BARNBOUGLE DUNES",
+      "location": "Bridport, Tasmania.",
+      "designers": "Tom Doak & Mike Clayton (2004).",
+      "averagePoints": 97.217,
+      "ranking2022": "3",
+      "comments": []
+    },
+    {
+      "name": "CAPE WICKHAM LINKS",
+      "location": "King Island, Tasmania.",
+      "designers": "Darius Oliver and Mike DeVries (2015).",
+      "averagePoints": 97.381,
+      "ranking2022": "2",
+      "comments": []
+    },
+    {
+      "name": "KINGSTON HEATH",
+      "location": "Heatherton, Victoria.",
+      "designers": "Dan Soutar (1925), Dr Alister MacKenzie (1926), Graeme Grant (1983-1995); Geoff Ogilvy, Mike Clayton, Mike Cocking & Ashley Mead – OCCM (2018); Geoff Ogilvy, Mike Cocking & Ashley Mead – OCM (ongoing).",
+      "averagePoints": 97.688,
+      "ranking2022": "5",
+      "comments": []
+    },
+    {
+      "name": "ROYAL MELBOURNE GC – WEST COURSE",
+      "location": "Black Rock, Victoria.",
+      "designers": "Dr Alister MacKenzie (1931); Tom Doak – Renaissance Golf Design (ongoing).",
+      "averagePoints": 99.909,
+      "ranking2022": "1",
+      "comments": []
+    }
+  ]
+}
